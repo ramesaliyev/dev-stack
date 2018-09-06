@@ -1,6 +1,14 @@
+- [Docker](https://www.docker.com/)
+- Editor
+  - [VSCode](https://gist.github.com/ramesaliyev/be951860085662fed521e7efe2a7a912)
 - Git
   - [Configure](https://gist.github.com/ramesaliyev/6ed8d142e2c2f22228c7)
   - [DiffMerge](https://gist.github.com/ramesaliyev/9d93bcc8ec0c0535759be57fc500f89e)
+- Misc
+  - [Alfred](https://www.alfredapp.com/)
+  - [Caffeine](http://lightheadsw.com/caffeine/)
+  - [FlyCut](https://itunes.apple.com/tr/app/flycut-clipboard-manager/id442160987?mt=12)
+  - [Magnet](http://magnet.crowdcafe.com/)
 - Terminal
   - [Iterm 2](https://www.iterm2.com/)
   - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
