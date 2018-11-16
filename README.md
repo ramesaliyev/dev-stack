@@ -15,6 +15,7 @@
   - [Alfred](https://www.alfredapp.com/)
   - [Caffeine](http://lightheadsw.com/caffeine/) or [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
   - [FlyCut](https://itunes.apple.com/tr/app/flycut-clipboard-manager/id442160987?mt=12)
+  - [Krisp](https://krisp.ai)
   - [Magnet](http://magnet.crowdcafe.com/) or [ShiftIt](https://github.com/fikovnik/ShiftIt)
 - Terminal
   - [Iterm 2](https://www.iterm2.com/)
