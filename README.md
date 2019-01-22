@@ -13,6 +13,7 @@
   - [DiffMerge](https://gist.github.com/ramesaliyev/9d93bcc8ec0c0535759be57fc500f89e)
 - Misc
   - [Alfred](https://www.alfredapp.com/)
+  - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
   - [Caffeine](http://lightheadsw.com/caffeine/) or [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
   - [FlyCut](https://itunes.apple.com/tr/app/flycut-clipboard-manager/id442160987?mt=12)
   - [Krisp](https://krisp.ai)
