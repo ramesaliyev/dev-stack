@@ -1,5 +1,6 @@
 alias gx="git remote update && gup origin master"
 alias gxc="git branch | grep -v "master" | xargs git branch -D "
 alias gxd="git diff -- . ':(exclude)package-lock.json' ':(exclude)yarn.lock'"
+alias gxsd="git diff --staged -- . ':(exclude)package-lock.json' ':(exclude)yarn.lock'"
 
 alias redep="rm -rf node_modules && npm install"
