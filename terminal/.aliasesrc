@@ -1,3 +1,9 @@
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ......="cd ../../../../.."
+
 alias gx="git remote update && gup origin master"
 alias gxc="git branch | grep -v "master" | xargs git branch -D "
 alias gxd="git diff -- . ':(exclude)package-lock.json' ':(exclude)yarn.lock'"
@@ -6,6 +12,9 @@ alias gxca="git add . && git commit --amend"
 alias gxcap="gxca && git push -f"
 alias gxcp="git add . && git commit && git push"
 alias gxfp="git fetch --prune"
+
+alias gls="git log --graph --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset - %C(bold blue)%an%Creset: %s %Cgreen(%cr)' --abbrev-commit --date=relative"
+alias glsa="git log --graph --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset - %C(bold blue)%an%Creset: %s %Cgreen(%cr)' --abbrev-commit --date=relative --all"
 
 alias gxr="gco -b _ && git branch -D master && gco master && gxc && gxfp && gx"
 
