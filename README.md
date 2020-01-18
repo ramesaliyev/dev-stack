@@ -20,6 +20,7 @@
   - [Magnet](http://magnet.crowdcafe.com/) or [ShiftIt](https://github.com/fikovnik/ShiftIt)
 - Terminal
   - [Iterm 2](https://www.iterm2.com/)
+  - [Homebrew](https://brew.sh/)
   - [AutoJump](https://github.com/wting/autojump)
   - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
