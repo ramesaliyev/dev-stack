@@ -16,6 +16,7 @@ alias gxfp="git fetch --prune"
 alias gls="git log --graph --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset - %C(bold blue)%an%Creset: %s %Cgreen(%cr)' --abbrev-commit --date=relative"
 alias glsa="git log --graph --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset - %C(bold blue)%an%Creset: %s %Cgreen(%cr)' --abbrev-commit --date=relative --all"
 
+alias gxf="git add . && git commit --amend --no-edit && git push -f"
 alias gxr="gco -b _ && git branch -D master && gco master && gxc && gxfp && gx"
 
 alias redep="rm -rf node_modules && npm install"
