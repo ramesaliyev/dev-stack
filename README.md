@@ -5,6 +5,8 @@
   - [Postico](https://eggerapps.at/postico/)
 - Editor
   - [VSCode](https://gist.github.com/ramesaliyev/be951860085662fed521e7efe2a7a912)
+  - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - Fonts
   - [Fira Code](https://github.com/tonsky/FiraCode)
   - [Meslo Dotted](https://github.com/powerline/fonts/tree/master/Meslo%20Dotted)
