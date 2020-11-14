@@ -4,19 +4,39 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias ......="cd ../../../../.."
 
+# git
+
+# git zsh
+# gup='git pull --rebase'
+# gco='git checkout'
+# glog='git log --oneline --decorate --graph'
+# gst='git status'
+# gp='git push'
+# gpf='git push --force-with-lease'
+
+# git update on-top-of master/development
 alias gx="git remote update && gup origin master"
+alias gy="git remote update && gup origin development"
+
+# git clear all branches
 alias gxc="git branch | grep -v "master" | xargs git branch -D "
+
+# git diff without lock files
 alias gxd="git diff -- . ':(exclude)package-lock.json' ':(exclude)yarn.lock'"
 alias gxds="git diff --staged -- . ':(exclude)package-lock.json' ':(exclude)yarn.lock'"
-alias gxca="git add . && git commit --amend"
-alias gxcap="gxca && git push -f"
-alias gxcp="git add . && git commit && git push"
+
+# git clear stale remote branches
 alias gxfp="git fetch --prune"
 
+# git log
 alias gls="git log --graph --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset - %C(bold blue)%an%Creset: %s %Cgreen(%cr)' --abbrev-commit --date=relative"
 alias glsa="git log --graph --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset - %C(bold blue)%an%Creset: %s %Cgreen(%cr)' --abbrev-commit --date=relative --all"
 
-alias gxf="git add . && git commit --amend --no-edit && git push -f"
+# git force add commit push
+alias gxf="git add . && git commit --amend --no-edit && git push --force-with-lease"
+
+# git reset
 alias gxr="gco -b _ && git branch -D master && gco master && gxc && gxfp && gx"
 
+# npm renew dependencies
 alias redep="rm -rf node_modules && npm install"
