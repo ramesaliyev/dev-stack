@@ -13,6 +13,7 @@
 - Git
   - [Configure](https://gist.github.com/ramesaliyev/6ed8d142e2c2f22228c7)
   - [DiffMerge](https://gist.github.com/ramesaliyev/9d93bcc8ec0c0535759be57fc500f89e)
+  - [Sourcetree](https://www.sourcetreeapp.com/)
 - Misc
   - [Alfred](https://www.alfredapp.com/)
   - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
