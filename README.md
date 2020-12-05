@@ -17,9 +17,9 @@
 - Misc
   - [Alfred](https://www.alfredapp.com/)
   - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
-  - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
   - [CrossOver](https://www.codeweavers.com/crossover)
   - [FlyCut](https://itunes.apple.com/tr/app/flycut-clipboard-manager/id442160987?mt=12)
+  - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
   - [Krisp](https://krisp.ai)
   - [Magnet](http://magnet.crowdcafe.com/) or [ShiftIt](https://github.com/fikovnik/ShiftIt)
   - [Lunar](https://github.com/alin23/Lunar)
