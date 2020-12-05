@@ -16,16 +16,17 @@
   - [Sourcetree](https://www.sourcetreeapp.com/)
 - Misc
   - [Alfred](https://www.alfredapp.com/)
-  - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
   - [CrossOver](https://www.codeweavers.com/crossover)
   - [FlyCut](https://itunes.apple.com/tr/app/flycut-clipboard-manager/id442160987?mt=12)
-  - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
   - [Krisp](https://krisp.ai)
-  - [Magnet](http://magnet.crowdcafe.com/) or [ShiftIt](https://github.com/fikovnik/ShiftIt)
-  - [Lunar](https://github.com/alin23/Lunar)
 - Terminal
   - [Iterm 2](https://www.iterm2.com/)
   - [Homebrew](https://brew.sh/)
   - [AutoJump](https://github.com/wting/autojump)
   - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- Utilities
+  - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
+  - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
+  - [Lunar](https://github.com/alin23/Lunar)
+  - [Magnet](http://magnet.crowdcafe.com/) or [ShiftIt](https://github.com/fikovnik/ShiftIt)
