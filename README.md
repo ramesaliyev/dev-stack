@@ -17,8 +17,8 @@
 - Misc
   - [Alfred](https://www.alfredapp.com/)
   - [CrossOver](https://www.codeweavers.com/crossover)
-  - [FlyCut](https://itunes.apple.com/tr/app/flycut-clipboard-manager/id442160987?mt=12)
   - [Krisp](https://krisp.ai)
+  - [Maccy](https://github.com/p0deje/Maccy)
 - Terminal
   - [Iterm 2](https://www.iterm2.com/)
   - [Homebrew](https://brew.sh/)
