@@ -18,7 +18,6 @@
   - [Alfred](https://www.alfredapp.com/)
   - [CrossOver](https://www.codeweavers.com/crossover)
   - [Krisp](https://krisp.ai)
-  - [Maccy](https://github.com/p0deje/Maccy)
 - Terminal
   - [Iterm 2](https://www.iterm2.com/)
   - [Homebrew](https://brew.sh/)
@@ -29,4 +28,5 @@
   - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
   - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
   - [Lunar](https://github.com/alin23/Lunar)
+  - [Maccy](https://github.com/p0deje/Maccy)
   - [Magnet](http://magnet.crowdcafe.com/) or [ShiftIt](https://github.com/fikovnik/ShiftIt)
