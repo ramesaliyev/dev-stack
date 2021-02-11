@@ -4,7 +4,7 @@
   - [Postman](https://www.getpostman.com/)
   - [Postico](https://eggerapps.at/postico/)
 - Editor
-  - [VSCode](https://gist.github.com/ramesaliyev/be951860085662fed521e7efe2a7a912)
+  - [VSCode](https://code.visualstudio.com/)
   - [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
   - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - Fonts
