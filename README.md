@@ -29,4 +29,4 @@
   - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
   - [Lunar](https://github.com/alin23/Lunar)
   - [Maccy](https://github.com/p0deje/Maccy)
-  - [Magnet](http://magnet.crowdcafe.com/) or [ShiftIt](https://github.com/fikovnik/ShiftIt)
+  - [Magnet](http://magnet.crowdcafe.com/) or [ShiftIt](https://github.com/fikovnik/ShiftIt) or [Rectangle](https://rectangleapp.com/)
